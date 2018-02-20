@@ -1,0 +1,1 @@
+get-process | export-csv procs1.csv

@@ -1,0 +1,1 @@
+get-eventlog -LogName security  -newest 5 | ConvertTo-HTML | Out-File log.html

@@ -1,0 +1,1 @@
+get-process | export-clixml procs1.xml
